@@ -1,3 +1,7 @@
+## This is a single page app with a countdown and serverless api form.
+
+![alt text](https://github.com/Guidogl/countdown/blob/master/pictures/countdown_landing_page.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
