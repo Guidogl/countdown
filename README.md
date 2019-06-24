@@ -1,4 +1,4 @@
-## This is a single page app with a countdown and serverless api form.
+## This is a single page app with a countdown and serverless form.
 
 ![alt text](https://github.com/Guidogl/countdown/blob/master/pictures/countdown_landing_page.PNG)
 
